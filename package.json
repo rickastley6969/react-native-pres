@@ -2,6 +2,7 @@
   "name": "spectacle-boilerplate",
   "version": "1.0.1",
   "description": "ReactJS Powered Presentation Framework",
+  "homepage":"https://tarunkishore2303.github.io/react-native",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
